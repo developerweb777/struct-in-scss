@@ -1,0 +1,21 @@
+*::after,*::before{
+  box-sizing: border-box;
+}
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    all: inherit;
+}
+.container{
+    width: 1300px;
+    height: auto;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
